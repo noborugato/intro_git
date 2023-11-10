@@ -2,3 +2,4 @@ git学習用です
 workflowを学びます
 ・git add
 ・git commit
+・git remove
