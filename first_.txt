@@ -4,3 +4,4 @@ workflowを学びます
 ・git commit
 ・git remove
 ・git status
+・git diff
